@@ -1,0 +1,12 @@
+.widget-weather {
+  background-color: #47bbb3; }
+  .widget-weather .title {
+    color: rgba(0, 0, 0, 0.7); }
+  .widget-weather .temp {
+    color: black; }
+  .widget-weather .condition {
+    font-weight: 500;
+    font-size: 30px;
+    color: black; }
+  .widget-weather .updated-at {
+    color: rgba(0, 0, 0, 0.3); }
